@@ -19,4 +19,4 @@ Implement an additional component:
 
 Evaluate whether or not your refactoring made life easier for you, or not.
 
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/modernSE/kata-home-automation-java)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/MariusGiebenhain/kata-home-automation-java)
